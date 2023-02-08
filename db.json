@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Erik",
+      "telefono": 102013313,
+      "email": "sebastianerik802@gmail.com",
+      "empresa": "Microsoft"
+    },
+    {
+      "id": 2,
+      "nombre": "Javier",
+      " telefono": 138198313,
+      "email": "javier@123.com",
+      "empresa": "Shell"
+    },
+    {
+      " id": 3,
+      "nombre": "Pablo",
+      "telefono": 31983913,
+      "email": "pablo@david.com",
+      " empresa": "Oceano Azul"
+    },
+    {
+      " id": 4,
+      " nombre": "Joaquin",
+      "telefono": 319381983,
+      " email": "joaquin@calamucci.com",
+      "empresa": "Sony"
+    },
+    {
+      "id": 5,
+      " nombre": "Valentino",
+      "telefono": 1398198938,
+      "email": "valen@valen97.com",
+      "empresa": "Apple"
+    }
+  ]
+}
